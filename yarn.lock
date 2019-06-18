@@ -6902,9 +6902,9 @@ vuetify-loader@^1.2.2:
   dependencies:
     loader-utils "^1.1.0"
 
-vuetify@^2.0.0-beta.2:
-  version "2.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.0.0-beta.2.tgz#c3d3ac900303287b8ae330fa7886df67df3a14d9"
+vuetify@^2.0.0-beta.3:
+  version "2.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.0.0-beta.3.tgz#a6ffb313839e11ad490312d7cb9e55738f99255e"
 
 watchpack@^1.5.0:
   version "1.6.0"

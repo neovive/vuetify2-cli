@@ -32,9 +32,9 @@
 <script>
 export default {
   methods: {
-	  clicked() {
-		  console.log('clicked');
-	  }
+    clicked() {
+      console.log("clicked");
+    }
   },
   data: () => ({
     items: [
