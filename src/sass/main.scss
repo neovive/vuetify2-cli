@@ -1,0 +1,10 @@
+// The variables you want to modify
+$font-size-root: 16px;
+$body-font-family: 'Nunito', sans-serif;
+// $heading-font-family: 'Dosis', sans-serif;
+
+// For updating SASS lists
+// $material-light: map-merge($material-light, ( cards: green ));
+// $btn-border-radius: 0px;
+
+@import '~vuetify/src/styles/styles.sass';
